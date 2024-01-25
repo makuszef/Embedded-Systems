@@ -6,7 +6,7 @@ Markup : 1. First microcontroler - serves a function of keyboard wtih avaialable
 2. Second microcontroler - serves a function of BCD Display displaying volume and frequency of broadcast/receiving
 3.Third microcontroler - serves a function of DC engines
 4. Fourth microcontroler - serves a function of LCD Display displaying battery charge, volume, status of antenna
- Markup : * Bullet list
+* Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
